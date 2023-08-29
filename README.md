@@ -15,7 +15,7 @@ This application simply translates markdown in the editor to the appropriate HTM
  - [Marked-React](https://www.npmjs.com/package/marked-react): A JavaScript Library that uses Marked to render actual React Elements instead of using `dangerouslySetInnerHTML`.
 
  ## Project Structure
-- **'src/'**: At the heart of the application, the **'src/'** directory houses various project assets, the **index.jsx** file for routing, the **App.jsx** componenthigh-level structure definition, and the **index.css** file for application-wide styling.
+- **'src/'**: At the heart of the application, the **'src/'** directory houses various project assets, the **index.jsx** file for routing, the **App.jsx** component for high-level structure definition, and the **index.css** file for application-wide styling.
    - **'components/'** : This directory serves as a container for reusable components that are used throughout the application. In this example both the Editor and Previewer are their on components and both housed in their own folders in the **'components/'** folder. Each component in the **'components/'** folder is housed alongside it's CSS-Styling for simplicity.
 
  #### Contact Information
