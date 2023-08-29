@@ -16,7 +16,7 @@ This application simply translates markdown in the editor to the appropriate HTM
 
  ## Project Structure
 - **'src/'**: At the heart of the application, the **'src/'** directory houses various project assets, the **index.jsx** file for routing, the **App.jsx** component for high-level structure definition, and the **index.css** file for application-wide styling.
-   - **'components/'** : This directory serves as a container for reusable components that are used throughout the application. In this example both the Editor and Previewer are their on components and both housed in their own folders in the **'components/'** folder. Each component in the **'components/'** folder is housed alongside it's CSS-Styling for simplicity.
+   - **'components/'** : This directory serves as a container for reusable components that are used throughout the application. In this example both the Editor and Previewer are their own components and both housed in their own folders in the **'components/'** folder. Each component in the **'components/'** folder is housed alongside it's CSS-Styling for simplicity.
 
  #### Contact Information
 
