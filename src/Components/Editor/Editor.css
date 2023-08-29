@@ -1,0 +1,8 @@
+.editor--container {
+    margin: 50px;
+}
+
+.editor--textarea {
+    height: 50vh !important; /*OVERRIDING BOOTSTRAP DEFAULT STYLING*/
+    resize: none;
+}
